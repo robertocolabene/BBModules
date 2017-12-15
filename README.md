@@ -1,33 +1,24 @@
 # BBModules
 
-SIN, TRI, SAW, SQR, SPECIAL knobs - to control the amount for each signal;
-
-out - it's the sum of all the 5 signals;
-
-clone - it's the sum of all the 5 signals not controlled by fine knob;
-
-spl - it's the sum of 5 not conventional waves;
+<b>SIN, TRI, SAW, SQR, SPECIAL</b> knobs - to control the amount for each signal;<br>
+<b>out</b> - it's the sum of all the 5 signals;<br>
+<b>clone</b> - it's the sum of all the 5 signals not controlled by fine knob;<br>
+<b>spl</b> - it's the sum of 5 not conventional waves;<br>
 
 SPECIAL from 'out' and SPECIAL from 'spl' are different waves
 
 phase modding doesn't stand for phase modulation
-
 it can be called source replacement controlled by phase (I have to find a name)
 
-alpha - to control the source to modulate
+<b>alpha</b> - to control the source to modulate
+<b>beta</b> - to control the group of signals to replace
+<b>mphs</b> - it's the out for phase modding
 
-beta - to control the group of signals to replace
+## Context Menu
+### Input Mode
 
-mphs - it's the out for phase modding
-
-Context Menu
-
-Input Mode
-
--Standard: fm and sync are properly dedicated to their function
-
--Phase Modding: fm and sync are dedicated to modulate alpha and beta parameters
-
--Special Mod: fm it's dedicated to modulate the SPECIAL knob and fmcv to control the amount
+-<b>Standard</b>: fm and sync are properly dedicated to their function
+-<b>Phase Modding</b>: fm and sync are dedicated to modulate alpha and beta parameters
+-<b>Special Mod</b>: fm it's dedicated to modulate the SPECIAL knob and fmcv to control the amount
 
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/tt.png)
