@@ -10,6 +10,7 @@ That's a free alpha version. This kind of Modded VCO will remain free, most of t
 -add I/O phase modding<br>
 -add <b>SRCbP</b> mode selection<br>
 -add omega parameter to control the amount of <b>SRCbP</b><br>
+-take care of the graphic design<br>
 
 ### Bugs
 -<b>Needed help</b> for a bug, here's the link with an explanation of the problem<br>
