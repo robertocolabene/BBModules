@@ -8,16 +8,16 @@ That's a free alpha version. This kind of Modded VCO will remain free, most of t
 I need a developer to compile the version for mac and eventually linux. The developer will be always the same but he can't public the source code. Obviously he will have all my modules for free.
 
 ### To do
--rename some functions<br>
--add theta, phase modulation<br>
--add phase shifting for <b>SRCbP</b><br>
--add I/O phase modding<br>
--add <b>SRCbP</b> mode selection<br>
--add omega parameter to control the amount of <b>SRCbP</b><br>
--take care of the graphic design<br>
+- rename some functions<br>
+- add theta, phase modulation<br>
+- add phase shifting for <b>SRCbP</b><br>
+- add I/O phase modding<br>
+- add <b>SRCbP</b> mode selection<br>
+- add omega parameter to control the amount of <b>SRCbP</b><br>
+- take care of the graphic design<br>
 
 ### Bugs
--<b>Needed help</b> for a bug, <a href="https://github.com/VCVRack/Rack/issues/525">here</a>'s the link with an explanation of the problem<br>
+<b>Needed help</b> for a bug, <a href="https://github.com/VCVRack/Rack/issues/525">here</a>'s the link with an explanation of the problem<br>
 
 ## Modded VCO
 
@@ -38,9 +38,9 @@ it can be called <b>source replacement controlled by phase</b> (I have to find a
 ## Context Menu
 ### Input Mode
 
--<b>Standard</b>: fm and sync are properly dedicated to their function<br>
--<b>Phase Modding</b>: fm and sync are dedicated to modulate alpha and beta parameters<br>
--<b>Special Mod</b>: fm it's dedicated to modulate the SPECIAL knob and fmcv to control the amount<br>
+- <b>Standard</b>: fm and sync are properly dedicated to their function<br>
+- <b>Phase Modding</b>: fm and sync are dedicated to modulate alpha and beta parameters<br>
+- <b>Special Mod</b>: fm it's dedicated to modulate the SPECIAL knob and fmcv to control the amount<br>
 
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/tt.png)
 
