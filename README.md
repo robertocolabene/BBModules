@@ -17,8 +17,7 @@ I need a developer to compile the version for mac and eventually linux. The deve
 -take care of the graphic design<br>
 
 ### Bugs
--<b>Needed help</b> for a bug, here's the link with an explanation of the problem<br>
-https://github.com/VCVRack/Rack/issues/525
+-<b>Needed help</b> for a bug, <a href="https://github.com/VCVRack/Rack/issues/525">here</a>'s the link with an explanation of the problem<br>
 
 ## Modded VCO
 
@@ -44,3 +43,6 @@ it can be called <b>source replacement controlled by phase</b> (I have to find a
 -<b>Special Mod</b>: fm it's dedicated to modulate the SPECIAL knob and fmcv to control the amount<br>
 
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/tt.png)
+
+### Donation
+- if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
