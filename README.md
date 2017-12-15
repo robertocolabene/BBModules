@@ -5,7 +5,7 @@ That's a free alpha version. This kind of Modded VCO will remain free, most of t
 
 #### Attention
 
-I need a developer to compile the version for mac and eventually linux. The developer will be always the same but he can't public the source code. Obviously he will have all my modules for free.
+The developer will be always the same but he can't public the source code. Obviously he will have all my modules for free. 
 
 ### To do
 - rename some functions<br>
