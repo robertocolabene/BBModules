@@ -1,14 +1,31 @@
 # BBModules
 
+### Version
+That's a free alpha version.
+
+### To do
+-rename some functions<br>
+-add phase modulation<br>
+-add phase shifting for <b>SRCbP</b><br>
+-add I/O phase modding<br>
+-add <b>SRCbP</b> mode selection<br>
+-add omega parameter to control the <b>SRCbP</b><br>
+
+### Bugs
+-<b>Needed help</b> for a bug, here's the link<br>
+https://github.com/VCVRack/Rack/issues/525
+
+## Modded VCO
+
 <b>SIN, TRI, SAW, SQR, SPECIAL</b> knobs - to control the amount for each signal;<br>
 <b>out</b> - it's the sum of all the 5 signals;<br>
 <b>clone</b> - it's the sum of all the 5 signals not controlled by fine knob;<br>
 <b>spl</b> - it's the sum of 5 not conventional waves;<br>
 
-SPECIAL from 'out' and SPECIAL from 'spl' are different waves
+SPECIAL from <b>out</b> and SPECIAL from <b>spl</b> are different waves
 
-phase modding doesn't stand for phase modulation,<br>
-it can be called source replacement controlled by phase (I have to find a name)
+<b>phase modding</b> doesn't stand for phase modulation,<br>
+it can be called <b>source replacement controlled by phase</b> (I have to find a name)
 
 <b>alpha</b> - to control the source to modulate<br>
 <b>beta</b> - to control the group of signals to replace<br>
