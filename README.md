@@ -1,7 +1,7 @@
 # BBModules
 
 ### Version
-That's a free alpha version.
+That's a free alpha version. This kind of Modded VCO will remain free, most of the functions to add will be included in the complete version.
 
 ### To do
 -rename some functions<br>
