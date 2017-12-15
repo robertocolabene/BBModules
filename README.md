@@ -5,14 +5,14 @@ That's a free alpha version.
 
 ### To do
 -rename some functions<br>
--add phase modulation<br>
+-add theta, phase modulation<br>
 -add phase shifting for <b>SRCbP</b><br>
 -add I/O phase modding<br>
 -add <b>SRCbP</b> mode selection<br>
--add omega parameter to control the <b>SRCbP</b><br>
+-add omega parameter to control the amount of <b>SRCbP</b><br>
 
 ### Bugs
--<b>Needed help</b> for a bug, here's the link<br>
+-<b>Needed help</b> for a bug, here's the link with an explanation of the problem<br>
 https://github.com/VCVRack/Rack/issues/525
 
 ## Modded VCO
