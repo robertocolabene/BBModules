@@ -4,8 +4,8 @@
 That's a free alpha version. This kind of Modded VCO will remain free, most of the functions to add will be included in the complete version.
 
 #### Attention
-NEED a developer for linux.
-The developer will be always the same but he can't public the source code. Obviously he will have all my modules for free. 
+NEED a developer for linux.<br>
+The developer will be always the same but he can't public the source code. Obviously he will have all my modules for free. <br>
 Thanks to Jeremy for the help.
 
 ### To do
