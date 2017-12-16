@@ -6,7 +6,7 @@ That's a free alpha version. This kind of Modded VCO will remain free, most of t
 #### Attention
 NEED a developer for linux.<br>
 The developer will be always the same but he can't public the source code. Obviously he will have all my modules for free. <br>
-Thanks to Jeremy for the help.
+Thanks to Jeremy for the help with mac environment.
 
 ### To do
 - rename some functions<br>
