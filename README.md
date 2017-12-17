@@ -43,7 +43,7 @@ it can be called <b>source signal replacement controlled by phase</b> (I have to
 - <b>Phase Modding</b>: fm and sync are dedicated to modulate alpha and beta parameters<br>
 - <b>Special Mod</b>: fm it's dedicated to modulate the SPECIAL knob and fmcv to control the amount<br>
 
-![alt text](https://github.com/soulbridge/BBModules/blob/master/tt.png)
+![alt text](https://github.com/soulbridge/BBModules/blob/master/tt2.png)
 
 ### Donation
 - if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
