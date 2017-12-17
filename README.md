@@ -9,12 +9,10 @@ The developer will be always the same but he can't public the source code. Obvio
 Thanks to Jeremy for the help with mac environment.
 
 ### To do
-- rename some functions<br>
 - add theta, phase modulation<br>
-- add phase shifting for <b>SSRCbP</b><br>
+- add phase shifting for <b>sSRCbP</b><br>
 - add I/O phase modding<br>
-- add <b>SSRCbP</b> mode selection<br>
-- add omega parameter to control the amount of <b>SSRCbP</b><br>
+- add <b>sSRCbP</b> mode selection<br>
 - take care of the graphic design<br>
 
 ### Bugs
@@ -27,21 +25,22 @@ Thanks to Jeremy for the help with mac environment.
 <b>clone</b> - it's the sum of all the 5 signals not controlled by fine knob;<br>
 <b>spl</b> - it's the sum of 5 not conventional waves;<br>
 
-SPECIAL from <b>out</b> and SPECIAL from <b>spl</b> are different waves
+SPECIAL from <b>out</b> and SPECIAL from <b>spl</b> are different waves<br>
 
-<b>phase modding</b> doesn't stand for phase modulation,<br>
-it can be called <b>source signal replacement controlled by phase</b> (I have to find a name)
+<b>sSRCbP</b> stands for <b>source signal replacement controlled by phase</b> (I have to find a name)
 
 <b>alpha</b> - to control the source to modulate<br>
 <b>beta</b> - to control the group of signals to replace<br>
 <b>mphs</b> - it's the out for phase modding<br>
+<b>omega</b> - to control the amount of <b>sSRCbP</b><br>
 
 ## Context Menu
 ### Input Mode
 
 - <b>Standard</b>: fm and sync are properly dedicated to their function<br>
-- <b>Phase Modding</b>: fm and sync are dedicated to modulate alpha and beta parameters<br>
-- <b>Special Mod</b>: fm it's dedicated to modulate the SPECIAL knob and fmcv to control the amount<br>
+- <b>Alpha-Beta Mod</b>: fm and sync are dedicated to modulate alpha and beta parameters<br>
+- <b>Special Amount Mod</b>: fm it's dedicated to modulate the SPECIAL knob and fmcv to control the amount<br>
+- <b>Omega-Beta Mod</b>: fm and sync are dedicated to modulate omega and beta parameters and fmcv to control the amount for omega<br>
 
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/tt2.png)
 
