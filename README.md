@@ -13,7 +13,8 @@ Thanks to Jeremy for the help with mac environment.
 - add phase shifting for <b>sSRCbP</b><br>
 - add I/O phase modding<br>
 - add <b>sSRCbP</b> mode selection<br>
-- take care of the graphic design<br>
+- graphic design<br>
+- add quantized tuning<br>
 
 ### Bugs
 <b>Needed help</b> for a bug, <a href="https://github.com/VCVRack/Rack/issues/525">here</a>'s the link with an explanation of the problem<br>
