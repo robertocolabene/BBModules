@@ -11,10 +11,10 @@ Thanks to Jeremy for the help with mac environment.
 ### To do
 - rename some functions<br>
 - add theta, phase modulation<br>
-- add phase shifting for <b>SRCbP</b><br>
+- add phase shifting for <b>SSRCbP</b><br>
 - add I/O phase modding<br>
-- add <b>SRCbP</b> mode selection<br>
-- add omega parameter to control the amount of <b>SRCbP</b><br>
+- add <b>SSRCbP</b> mode selection<br>
+- add omega parameter to control the amount of <b>SSRCbP</b><br>
 - take care of the graphic design<br>
 
 ### Bugs
@@ -30,7 +30,7 @@ Thanks to Jeremy for the help with mac environment.
 SPECIAL from <b>out</b> and SPECIAL from <b>spl</b> are different waves
 
 <b>phase modding</b> doesn't stand for phase modulation,<br>
-it can be called <b>source replacement controlled by phase</b> (I have to find a name)
+it can be called <b>source signal replacement controlled by phase</b> (I have to find a name)
 
 <b>alpha</b> - to control the source to modulate<br>
 <b>beta</b> - to control the group of signals to replace<br>
