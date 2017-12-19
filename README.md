@@ -1,7 +1,11 @@
 # BBModules
 
 ### Version
-That's a free alpha version. This kind of Modded VCO will remain free, most of the functions to add will be included in the complete version.
+That's a free alpha version. This kind of Modded VCO will remain free, most of the functions to add will be included in the complete version.<br>
+
+Preview final version:<br>
+
+![alt text](https://github.com/soulbridge/BBModules/blob/master/preview.jpg)
 
 #### Attention
 NEED a developer for linux.<br>
