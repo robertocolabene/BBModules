@@ -17,7 +17,7 @@ Thanks to Jeremy for the help with mac environment.
 - add phase shifting for <b>sSRCbP</b><br>
 - add I/O phase modding<br>
 - add <b>sSRCbP</b> mode selection<br>
-- graphic design<br>
+- fix the display<br>
 - add quantized tuning<br>
 
 ### Bugs
