@@ -47,7 +47,7 @@ SPECIAL from <b>out</b> and SPECIAL from <b>spl</b> are different waves<br>
 - <b>Special Amount Mod</b>: fm it's dedicated to modulate the SPECIAL knob and fmcv to control the amount<br>
 - <b>Omega-Beta Mod</b>: fm and sync are dedicated to modulate omega and beta parameters and fmcv to control the amount for omega<br>
 
-![alt text](https://github.com/soulbridge/BBModules/blob/master/tt2.png)
+![alt text](https://github.com/soulbridge/BBModules/blob/master/free.png)
 
 ### Donation
 - if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
