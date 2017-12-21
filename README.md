@@ -19,7 +19,7 @@ Thanks to Jeremy for the help with mac environment.
 - add quantized tuning<br>
 
 ### Bugs
-<b>Needed help</b> for a bug, <a href="https://github.com/VCVRack/Rack/issues/525">here</a>'s the link with an explanation of the problem - (ASIO problem I suppose)<br>
+<b>Needed help</b> for a bug, <a href="https://github.com/VCVRack/Rack/issues/525">here</a>'s the link with an explanation of the problem<br>
 
 ## Modded VCO
 
