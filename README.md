@@ -16,7 +16,6 @@ Thanks to Jeremy for the help with mac environment.
 - add theta, phase modulation<br>
 - add phase shifting for <b>sSRCbP</b><br>
 - add I/O phase modding<br>
-- add quantized tuning<br>
 
 ### Bugs
 <b>Needed help</b> for a bug, <a href="https://github.com/VCVRack/Rack/issues/525">here</a>'s the link with an explanation of the problem<br>
