@@ -16,7 +16,7 @@ Thanks to Jeremy for the help with mac environment.
 
 
 ### Bugs
-<b>Needed help</b> for a bug, <a href="https://github.com/VCVRack/Rack/issues/525">here</a>'s the link with an explanation of the problem<br>
+Waiting...<br>
 
 ## Modded VCO
 
@@ -43,6 +43,10 @@ SPECIAL from <b>out</b> and SPECIAL from <b>spl</b> are different waves<br>
 - <b>Omega-Beta Mod</b>: fm and sync are dedicated to modulate omega and beta parameters and fmcv to control the amount for omega<br>
 
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/free.jpg)
+
+## Modded VCO (Complete Version)
+
+![alt text](https://github.com/soulbridge/BBModules/blob/master/complete.jpg)
 
 ### Donation
 - if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
