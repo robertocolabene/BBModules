@@ -45,6 +45,9 @@ SPECIAL from <b>out</b> and SPECIAL from <b>spl</b> are different waves<br>
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/free.jpg)
 
 ## Modded VCO (Complete Version)
+### The Aim
+I like find and create new sounds, my sounds. Well, why not a customizable sound generator? I built this complex oscillator to have the most personal waveform as possible. I hope you like it.
+### What's new?
 
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/complete.jpg)
 
