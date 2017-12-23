@@ -53,17 +53,18 @@ I added 4 inputs on the top that allow you to modulate different destinations. T
 
 - <b>AM</b>: Amplitude modulation, the first in <b>1 - 2</b> wait for an input signal from -5V to 5V , the second one in <b>3 - 4</b> wait for a signal from 0V to 10V. You're free to use both of them simultaneously.<br>
 - <b>Spl</b>: Special wave modulation. (-5V,5V)<br>
-- <b>Alpha</b>: Alpha parameter modulation, alpha knob is the offset. (-10V,10V)<br>
+- <b>Alpha</b>: Alpha parameter modulation, it changes the source in <b>sSRCbP</b> process, alpha knob is the offset. (-10V,10V)<br>
 - <b>Beta</b>: Beta parameter modulation, it changes all the 4 waves to replace in the <b>sSRCbP</b>, the wave in memory is the offset. (-10V,10V)<br>
 - <b>Beta N</b>: Beta parameter modulation, it changes just the N wave to replace in the <b>sSRCbP</b>, the wave in memory is the offset. (-10V,10V)<br>
 - <b>Omega</b>: Omega parameter modulation, it changes the amount of <b>sSRCbP</b>, omega knob is the offset. (-5V,5V)<br>
 - <b>Fine</b>: Fine parameter modulation. (-5V,5V)<br>
 - <b>Theta</b>: Theta parameter modulation, theta knob is the offset (-5V,5V)<br>
-- <b>Wave N</b>: Take in input the N wave to replace in <b>sSRCbP</b>. (-10V,10V)<br>
+- <b>Wave N</b>: Take in input the N wave to replace in <b>sSRCbP</b> process. (-10V,10V)<br>
 
 #### Look Closer
 <b>Theta</b> is the initial phase modulation for all the special waves.<br>
 The <b>waves</b> you replace in the sSRCbP process are not synchronized, you have to manually sync one oscillator to the other, or maybe not... ?<br>
+Using your external waves doesn't allow you to have a beta modulation.<br>
 The <b>button on the top</b> is useful to quantize the tuning knob but you can always switch in digital mode to moving in semitones.<br>
 You can use the <b>clone</b> out to detuning the second internal vco with the first using the fine knob or modulation too.<br>
 
