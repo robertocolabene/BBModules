@@ -13,8 +13,7 @@ The developer will be always the same but he can't public the source code. Obvio
 Thanks to Jeremy for the help with mac environment.
 
 ### To do
-- add theta, phase modulation<br>
-- add phase shifting for <b>sSRCbP</b><br>
+
 
 ### Bugs
 <b>Needed help</b> for a bug, <a href="https://github.com/VCVRack/Rack/issues/525">here</a>'s the link with an explanation of the problem<br>
