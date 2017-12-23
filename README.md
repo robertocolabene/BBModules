@@ -61,11 +61,14 @@ I added 4 inputs on the top that allow you to modulate different destinations. T
 - <b>Theta</b>: Theta parameter modulation, theta knob is the offset (-5V,5V)<br>
 - <b>Wave N</b>: Take in input the N wave to replace in <b>sSRCbP</b>. (-10V,10V)<br>
 
-### Look Closer
+#### Look Closer
 <b>Theta</b> is the initial phase modulation for all the special waves.<br>
 The <b>waves</b> you replace in the sSRCbP process are not synchronized, you have to manually sync one oscillator to the other, or maybe not... ?<br>
 The <b>button on the top</b> is useful to quantize the tuning knob but you can always switch in digital mode to moving in semitones.<br>
-You can use the <b>clone</b> out to detuning the second internal vco with the first using the fine knob or modulation too.
+You can use the <b>clone</b> out to detuning the second internal vco with the first using the fine knob or modulation too.<br>
+
+### sSRCbP mode Selection
+A way to have less complex replacement of the signals is to set a replacement based on the pole of the source signal or by the trend, in other words the derivative of the source function. So you would have a double replacement and you can use your external waves in the group <b>1 - 2</b>.<br>
 
 ### Donation
 - if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
