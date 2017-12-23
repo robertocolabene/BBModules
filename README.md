@@ -46,8 +46,10 @@ SPECIAL from <b>out</b> and SPECIAL from <b>spl</b> are different waves<br>
 
 ## Modded VCO (Complete Version)
 ### The Aim
-I like find and create new sounds, my sounds. Well, why not a customizable sound generator? I built this complex oscillator to have the most personal waveform as possible. I hope you like it.
+I like find and create new sounds, my sounds. Well, why not a customizable sound generator? I built this complex oscillator to have the most personal waveform as possible. I hope you like it.<br>
+
 ### What's new?
+I added 4 inputs on the top that allow you to modulate different destinations. Those inputs are splitted in two groups, the first two on the top are called <b>1 - 2</b>, the other two under are called <b>3 - 4</b>.<br>
 
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/complete.jpg)
 
