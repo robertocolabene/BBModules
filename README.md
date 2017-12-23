@@ -64,7 +64,7 @@ I added 4 inputs on the top that allow you to modulate different destinations. T
 #### Look Closer
 <b>Theta</b> is the initial phase modulation for all the special waves.<br>
 The <b>waves</b> you replace in the sSRCbP process are not synchronized, you have to manually sync one oscillator to the other, or maybe not... ?<br>
-Using your external waves doesn't allow you to have a beta modulation.<br>
+Using your <b>external waves</b> doesn't allow you to have a beta modulation.<br>
 The <b>button on the top</b> is useful to quantize the tuning knob but you can always switch in digital mode to moving in semitones.<br>
 You can use the <b>clone</b> out to detuning the second internal vco with the first using the fine knob or modulation too.<br>
 
