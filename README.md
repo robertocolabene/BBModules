@@ -3,10 +3,6 @@
 ### Version
 That's a free alpha version. This kind of Modded VCO will remain free, most of the functions to add will be included in the complete version.<br>
 
-Preview final graphic for the complete version:<br>
-
-![alt text](https://github.com/soulbridge/BBModules/blob/master/preview.jpg)
-
 #### Attention
 NEED a developer for linux.<br>
 The developer will be always the same but he can't public the source code. Obviously he will have all my modules for free. <br>
@@ -57,13 +53,15 @@ I added 4 inputs on the top that allow you to modulate different destinations. T
 
 - <b>AM</b>: Amplitude modulation, the first in <b>1 - 2</b> wait for an input signal from -5V to 5V , the second one in <b>3 - 4</b> wait for a signal from 0V to 10V. You're free to use both of them simultaneously.<br>
 - <b>Spl</b>: Special wave modulation. (-5V,5V)<br>
-- <b>Alpha</b>: Alpha parameter modulation. (-10V,10V)<br>
+- <b>Alpha</b>: Alpha parameter modulation, alpha knob is the offset. (-10V,10V)<br>
 - <b>Beta</b>: Beta parameter modulation, it changes all the 4 waves to replace in the <b>sSRCbP</b>, beta knob is the offset. (-10V,10V)<br>
-- <b>Beta N</b>: Beta parameter modulation, it changes just the N wave to replace in the <b>sSRCbP</b>, the wave in memory it's the offset. (-10V,10V)<br>
+- <b>Beta N</b>: Beta parameter modulation, it changes just the N wave to replace in the <b>sSRCbP</b>, the wave in memory is the offset. (-10V,10V)<br>
 - <b>Omega</b>: Omega parameter modulation, it changes the amount of <b>sSRCbP</b>, omega knob is the offset. (-10V,10V)<br>
 - <b>Fine</b>: Fine parameter modulation. (-5V,5V)<br>
 - <b>Theta</b>: Theta parameter modulation, theta knob is the offset (-5V,5V)<br>
 - <b>Wave N</b>: Take in input the N wave to replace in <b>sSRCbP</b>. (-10V,10V)<br>
+
+### Look Closer
 
 ### Donation
 - if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
