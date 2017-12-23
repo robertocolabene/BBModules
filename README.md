@@ -54,7 +54,7 @@ I added 4 inputs on the top that allow you to modulate different destinations. T
 - <b>AM</b>: Amplitude modulation, the first in <b>1 - 2</b> wait for an input signal from -5V to 5V , the second one in <b>3 - 4</b> wait for a signal from 0V to 10V. You're free to use both of them simultaneously.<br>
 - <b>Spl</b>: Special wave modulation. (-5V,5V)<br>
 - <b>Alpha</b>: Alpha parameter modulation, alpha knob is the offset. (-10V,10V)<br>
-- <b>Beta</b>: Beta parameter modulation, it changes all the 4 waves to replace in the <b>sSRCbP</b>, beta knob is the offset. (-10V,10V)<br>
+- <b>Beta</b>: Beta parameter modulation, it changes all the 4 waves to replace in the <b>sSRCbP</b>, the wave in memory is the offset. (-10V,10V)<br>
 - <b>Beta N</b>: Beta parameter modulation, it changes just the N wave to replace in the <b>sSRCbP</b>, the wave in memory is the offset. (-10V,10V)<br>
 - <b>Omega</b>: Omega parameter modulation, it changes the amount of <b>sSRCbP</b>, omega knob is the offset. (-10V,10V)<br>
 - <b>Fine</b>: Fine parameter modulation. (-5V,5V)<br>
