@@ -1,7 +1,7 @@
 # BBModules
 
 ### Version
-That's a free alpha version. This kind of Modded VCO will remain free, most of the functions to add will be included in the complete version.<br>
+I want to test the complete version of my module before the release.<br>
 
 #### Attention
 NEED a developer for linux.<br>
