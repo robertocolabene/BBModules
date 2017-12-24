@@ -4,9 +4,8 @@
 You can find my modules to purchase <a href="https://gumroad.com/bbmodules">here</a>.<br>
 
 #### Attention
-NEED a developer for linux.<br>
 The developer will be always the same but he can't public the source code. Obviously he will have all my modules for free. <br>
-Thanks to Jeremy for the help with mac environment.
+Thanks to Jeremy for the help with mac environment. Thanks to Antonio for the help with linux environment.<br>
 
 #### To do
 
