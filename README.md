@@ -25,7 +25,7 @@ Waiting...<br><br><br>
 
 SPECIAL from <b>out</b> and SPECIAL from <b>spl</b> are different waves<br>
 
-<b>sSRCbP</b> stands for <b>source signal replacement controlled by phase</b> (I have to find a name)
+<b>sSRCbP</b> stands for <b>source signal replacement controlled by phase</b> 
 
 <b>alpha</b> - to control the source to modulate<br>
 <b>beta</b> - to control the group of signals to replace<br>
