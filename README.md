@@ -67,6 +67,7 @@ The <b>waves</b> you replace in the sSRCbP process are not synchronized, you hav
 Using your <b>external waves</b> doesn't allow you to have a beta modulation.<br>
 The <b>button on the top</b> is useful to quantize the tuning knob but you can always switch in digital mode to moving in semitones.<br>
 You can use the <b>clone</b> out to detuning the second internal vco with the first using the fine knob or modulation too.<br>
+The <b>special waves</b> emphasize different harmonics, so they could sound "strange" and, cause of their waveform, they could have a "strange" behaviour.<br>
 
 ### sSRCbP mode Selection
 A way to have less complex replacement of the signals is to set a replacement based on the pole of the source signal or by the trend, in other words the derivative of the source function. So you would have a double replacement and you can use your external waves in the group <b>1 - 2</b>.<br>
