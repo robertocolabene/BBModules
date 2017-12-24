@@ -13,7 +13,9 @@ Thanks to Jeremy for the help with mac environment.
 
 
 ### Bugs
-Waiting...<br>
+Waiting...<br><br><br>
+
+# The Manual
 
 ## Modded VCO
 
