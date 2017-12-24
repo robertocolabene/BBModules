@@ -1,7 +1,8 @@
 # BBModules
 
-### Version
-I want to test the complete version of my module before the release.<br>
+### Notes
+<br>
+You can find my modules to purchase <a href="https://gumroad.com/bbmodules">here</a>.<br>
 
 #### Attention
 NEED a developer for linux.<br>
