@@ -8,7 +8,8 @@ The developer will be always the same but he can't public the source code. Obvio
 Thanks to Jeremy for the help with mac environment. Thanks to Antonio for the help with linux environment.<br>
 
 #### To do
-
+- Fix a problem on the Multi-Envelope<br>
+- Einstein-Rosen Bridge<br>
 
 #### Bugs
 Waiting...<br><br><br>
