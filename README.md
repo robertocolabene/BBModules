@@ -78,5 +78,15 @@ A way to have less complex replacement of the signals is to set a replacement ba
 
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/erb.jpg)
 
+The "Einstein-Rosen bridge" module is a probabilistic delayer and, I have to say it, this module is easy to learn but it could be pretty hard to master.<br>
+Basically this module have one input and one output, the signal on the input will be buffered and delayed on the output.<br>
+
+### The Knobs
+- <b>distance</b> : from 0 to 10 seconds, when you're on 0 you're not moving, anyway the signal will exit from the out.
+- <b>time</b> : let you change the range of distance between 0-1s and 0-100s.
+- <b>data loss</b> : erase the input data during the journey.
+- <b>opening</b> : the bridge could be not opened so there's 1 on N possibilities to have success.
+
+
 ### Donation
 - if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
