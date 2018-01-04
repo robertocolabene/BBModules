@@ -80,12 +80,21 @@ A way to have less complex replacement of the signals is to set a replacement ba
 
 The "Einstein-Rosen bridge" module is a probabilistic delayer and, I have to say it, this module is easy to learn but it could be pretty hard to master.<br>
 Basically this module have one input and one output, the signal on the input will be buffered and delayed on the output.<br>
+Attention it's not a classical delay, there's no wet, there's no feedback... on the out there's the signal delayed.<br>
 
 ### The Knobs
 - <b>distance</b> : from 0 to 10 seconds, when you're on 0 you're not moving, anyway the signal will exit from the out.
 - <b>time</b> : let you change the range of distance between 0-1s and 0-100s.
 - <b>data loss</b> : erase the input data during the journey.
 - <b>opening</b> : the bridge could be not opened so there's 1 on N possibilities to have success.
+
+### The probabilistic side
+<b>One of the most important thing to predict what will be your out is to understand how to use Probability Computing.</b><br>
+Cause of that it's also very important to put on the input a signal that returns on a real zero voltage. (for example a filter out with some resonance can return a not zero voltage.)<br>
+Let me advice you, you should use a VCA before of this module, if you're sending a gate or a trigger there's no need.<br>
+So, this module recognize when a signal is active or not, which means a different from zero signal.<br>
+It follows that the probability of every event, except for data loss, it's influenced by the presence of the signal.<br>
+
 
 
 ### Donation
