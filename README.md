@@ -95,7 +95,12 @@ Let me advice you, you should use a VCA before of this module, if you're sending
 So, this module recognize when a signal is active or not, which means a different from zero signal.<br>
 It follows that the probability of every event, except for data loss, it's influenced by the presence of the signal.<br>
 
-
+## Probability Computing
+- <b>One shot, signal on</b>: the probability is computed one time when the signal is active.<br>
+- <b>One shot, signal off</b>: the probability is computed one time when the signal is not active.<br>
+- <b>Meanwhile, signal on</b>: the probability is computed continuously when the signal is active.<br>
+- <b>Meanwhile, signal off</b>: the probability is computed continuously when the signal is not active.<br>
+- <b>Always</b>: the probability is computed continuously.<br>
 
 ### Donation
 - if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
