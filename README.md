@@ -88,19 +88,26 @@ Attention it's not a classical delay, there's no wet, there's no feedback... on 
 - <b>data loss</b> : erase the input data during the journey.
 - <b>opening</b> : the bridge could be not opened so there's 1 on N possibilities to have success.
 
-### The probabilistic side
+## The probabilistic side
 <b>One of the most important thing to predict what will be your out is to understand how to use Probability Computing.</b><br>
 Cause of that it's also very important to put on the input a signal that returns on a real zero voltage. (for example a filter out with some resonance can return a not zero voltage.)<br>
 Let me advice you, you should use a VCA before of this module, if you're sending a gate or a trigger there's no need.<br>
 So, this module recognize when a signal is active or not, which means a different from zero signal.<br>
 It follows that the probability of every event, except for data loss, it's influenced by the presence of the signal.<br>
 
-## Probability Computing
+### Probability Computing
 - <b>One shot, signal on</b>: the probability is computed one time when the signal is active.<br>
 - <b>One shot, signal off</b>: the probability is computed one time when the signal is not active.<br>
 - <b>Meanwhile, signal on</b>: the probability is computed continuously when the signal is active.<br>
 - <b>Meanwhile, signal off</b>: the probability is computed continuously when the signal is not active.<br>
 - <b>Always</b>: the probability is computed continuously.<br>
+
+### Journey: Probability of Success
+The distance parameter can be influenced by probability. It follows that the distance can be increased or decreased in relation to the setted distance.<br>
+
+- <b>likely on long distance</b>: the journey will be sure and accurate near 1 parsec.<br>
+- <b>likely on short distance</b>: the journey will be sure and accurate near 0 parsec.<br>
+- <b>not affected by probability</b>: the journey won't be affeceted by probability.<br>
 
 ### Donation
 - if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
