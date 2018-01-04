@@ -107,6 +107,14 @@ The distance parameter can be influenced by probability. It follows that the dis
 - <b>likely on short distance</b>: the journey will be sure and accurate near 0 parsec.<br>
 - <b>not affected by probability</b>: the journey won't be affeceted by probability.<br>
 
+### The Continuum
+There are two modes of working, when the button of continuum is off: every note played while the buffer is not empty will be attached on the previous one. When the button is on: every pause between the notes will be granted in the out but you can't change the distance knob.<br>
+
+The buffer is empty when the led is blue, not empty while is green.<br>
+Change the distance while the buffer is active can produce two results.<br>
+If you decrease the distance nothing happen until the buffer goes empty.<br>
+If you increase the distance the out will be delayed up to the next distance.<br>
+
 <br><br>
 ## Donation
 - if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
