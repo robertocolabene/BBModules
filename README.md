@@ -111,10 +111,10 @@ The distance parameter can be influenced by probability. It follows that the dis
 There are two modes of working.<br>
 <b>When the button of continuum is off</b>: every note played while the buffer is not empty will be attached on the previous one.<br> <b>When the button is on</b>: every pause between the notes will be granted in the out but you can't change the distance knob.<br>
 
-The buffer is empty when the led is blue, not empty while is green.<br>
+<b>The buffer is empty when the led is blue, not empty while is green.</b><br>
 Change the distance while the buffer is active can produce two results.<br>
-If you decrease the distance nothing happen until the buffer goes empty.<br>
-If you increase the distance the out will be delayed up to the next distance.<br>
+<b>If you decrease the distance nothing happen until the buffer goes empty.</b><br>
+<b>If you increase the distance the out will be delayed up to the next distance.</b><br>
 
 <br><br>
 ## Donation
