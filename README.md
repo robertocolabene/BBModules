@@ -112,9 +112,17 @@ There are two modes of working.<br>
 <b>When the button of continuum is off</b>: every note played while the buffer is not empty will be attached on the previous one.<br> <b>When the button is on</b>: every pause between the notes will be granted in the out but you can't change the distance knob.<br>
 
 <b>The buffer is empty when the led is blue, not empty while is green.</b><br>
-Change the distance while the buffer is active can produce two results.<br>
+Changing the distance <b>while the buffer is active</b> can produce two results.<br>
 <b>If you decrease the distance nothing happen until the buffer goes empty.</b><br>
 <b>If you increase the distance the out will be delayed up to the next distance.</b><br>
+
+As you noticed you can't use probability variations on the distance knob while continuum button is active. The main reason is that the buffer is always active and can't rewind the time, so once the delay time is passed it can only be increased, that's a useless action.<br>
+
+### Some advices
+You can use data loss to make some noise.<br>
+You should use the opening probability in combination with "one shot, signal off" or "meanwhile, signal off".<br>
+You should use the distance probability variations in combination with "one shot, signal on".<br>
+On a video I'll show you some particular cases.<br>
 
 <br><br>
 ## Donation
