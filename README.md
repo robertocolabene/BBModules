@@ -9,9 +9,7 @@ Thanks to Jeremy for the help with mac environment. Thanks to Antonio for the he
 
 #### To do
 - Fix a problem on the Multi-Envelope<br>
-
-#### Bugs
-Waiting...<br><br><br>
+<br><br>
 
 # The Manual
 
@@ -109,5 +107,6 @@ The distance parameter can be influenced by probability. It follows that the dis
 - <b>likely on short distance</b>: the journey will be sure and accurate near 0 parsec.<br>
 - <b>not affected by probability</b>: the journey won't be affeceted by probability.<br>
 
+<br><br>
 ## Donation
 - if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
