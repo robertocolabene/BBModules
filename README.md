@@ -103,7 +103,7 @@ It follows that the probability of every event, except for data loss, it's influ
 - <b>Always</b>: the probability is computed continuously.<br>
 
 ### Journey: Probability of Success
-The distance parameter can be influenced by probability. It follows that the distance can be increased or decreased in relation to the setted distance.<br>
+The distance parameter can be influenced by probability. It follows that the distance can be randomly increased or decreased in relation to the setted distance.<br>
 
 - <b>likely on long distance</b>: the journey will be sure and accurate near 1 parsec.<br>
 - <b>likely on short distance</b>: the journey will be sure and accurate near 0 parsec.<br>
