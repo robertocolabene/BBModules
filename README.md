@@ -114,7 +114,7 @@ The distance parameter can be influenced by probability. It follows that the dis
 - If you're working with a signal you have to be sure that returns to 0 to recompute probability for the next one.
 - Working in not continuum mode  may cause attached notes or gates or triggers, read under.
 
-<b>Musically Talking</b>
+<b>Musically Talking</b><br>
 While attached notes can be part of a style, the sequenced notes that this function can't handle it's a real limitation. <br>
 You should use this function away from fast incoming signals to have results. In the other cases just stay in continuum.<br>
 
