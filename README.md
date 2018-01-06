@@ -114,6 +114,10 @@ The distance parameter can be influenced by probability. It follows that the dis
 - If you're working with a signal you have to be sure that returns to 0 to recompute probability for the next one.
 - Working in not continuum mode  may cause attached notes or gates or triggers, read under.
 
+<b>Musically Talking</b>
+While attached notes can be part of a style, the sequenced notes that this function can't handle it's a real limitation. <br>
+You should use this function away from fast incoming signals to have results. In the other cases just stay in continuum.<br>
+
 ### The Continuum
 There are two modes of working.<br>
 <b>When the button of continuum is off</b>: every note played while the buffer is not empty will be attached on the previous one.<br> <b>When the button is on</b>: every pause between the notes will be granted in the out but you can't change the distance knob.<br>
