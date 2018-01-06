@@ -79,7 +79,6 @@ A way to have less complex replacement of the signals is to set a replacement ba
 The "Einstein-Rosen bridge" module is a probabilistic <b>delayer</b> and, I have to say it, this module is easy to learn but it could be pretty hard to master.<br>
 Basically this module have one input and one output, the signal on the input will be buffered and delayed on the output.<br>
 <b>Attention it's not a classical delay, there's no wet, there's no feedback... on the out there's the signal delayed.</b><br>
-It's more easy to work with gates and triggers. <br>
 
 ### The Knobs
 - <b>distance</b> : from 0 to 10 seconds, when you're on 0 you're not moving, anyway the signal will exit from the out.
@@ -111,9 +110,9 @@ The distance parameter can be influenced by probability. It follows that the dis
 - <b>not affected by probability</b>: the journey won't be affeceted by probability.<br>
 
 <b>The limits of this function.</b><br>
-- This function can work only in not continuum mode.
+- This function cannot work only in continuum mode.
 - If you're working with a signal you have to be sure that returns to 0 to recompute probability for the next one.
-- Working not in continuum mode  may cause attached notes or gates or triggers, read under.
+- Working in not continuum mode  may cause attached notes or gates or triggers, read under.
 
 ### The Continuum
 There are two modes of working.<br>
@@ -131,7 +130,6 @@ You can use data loss to make some noise.<br>
 You should use the opening probability in combination with "one shot, signal off" or "meanwhile, signal off".<br>
 You should use the distance probability variations in combination with "one shot, signal on".<br>
 In most of the cases "one shot, signal off" will be the best option.<br>
-Could be more easy to work with gates and triggers.<br>
 
 <br><br>
 ## Donation
