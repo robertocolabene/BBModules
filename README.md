@@ -86,6 +86,8 @@ Basically this module have one input and one output, the signal on the input wil
 - <b>data loss</b> : erase the input data during the journey.
 - <b>opening</b> : the bridge could be not opened so there's 1 on N possibilities to have success.
 
+For convenience the "opening" and "data loss" proccesses will be available from 0.<br>
+
 ## The probabilistic side
 <b>One of the most important thing to predict what will be your out is to understand how to use Probability Computing.</b><br>
 Cause of that it's also very important to put on the input a signal that returns on a real zero voltage. (for example a filter out with some resonance can return a not zero voltage.)<br>
@@ -106,6 +108,11 @@ The distance parameter can be influenced by probability. It follows that the dis
 - <b>likely on long distance</b>: the journey will be sure and accurate near 1 parsec.<br>
 - <b>likely on short distance</b>: the journey will be sure and accurate near 0 parsec.<br>
 - <b>not affected by probability</b>: the journey won't be affeceted by probability.<br>
+
+<b>The limits of this function.</b><br>
+- This function can work only in not continuum mode.
+- If you're working with a signal you have to be sure that returns to 0 to recompute probability for the next one.
+- Working not in continuum mode  may cause attached notes, read under.
 
 ### The Continuum
 There are two modes of working.<br>
