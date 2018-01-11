@@ -110,7 +110,7 @@ The distance parameter can be influenced by probability. It follows that the dis
 - <b>not affected by probability</b>: the journey won't be affeceted by probability.<br>
 
 <b>The limits of this function.</b><br>
-- This function cannot work only in continuum mode.
+- This function cannot work in continuum mode.
 - If you're working with a signal you have to be sure that returns to 0 to recompute probability for the next one.
 - Working in not continuum mode  may cause attached notes or gates or triggers, read under.
 
