@@ -72,7 +72,7 @@ The <b>special waves</b> emphasize different harmonics, so they could sound "str
 A way to have less complex replacement of the signals is to set a replacement based on the pole of the source signal or by the trend, in other words the derivative of the source function. So you would have a double replacement and you can use your external waves in the group <b>1 - 2</b>.<br>
 <br>
 
-## Einstein-Rosen Bridge
+## Einstein-Rosen Bridge (discontinued)
 
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/erb.jpg)
 
