@@ -17,10 +17,10 @@ You can find my modules to purchase <a href="https://gumroad.com/bbmodules">here
 
 <b>sSRCbP</b> stands for <b>source signal replacement controlled by phase</b> 
 
-<b>a|</b> - to control the source to modulate<br>
-<b>b|</b> - to control the group of signals to replace<br>
-<b>o|</b> - to control the amount of <b>sSRCbP</b><br>
-<b>t|</b> - to shift the phase angle<br>
+<b>ã|</b> - to control the source to modulate<br>
+<b>ḅ|</b> - to control the group of signals to replace<br>
+<b>ö|</b> - to control the amount of <b>sSRCbP</b><br>
+<b>ŧ|</b> - to shift the phase angle<br>
 
 ### The Aim
 I like find and create new sounds, my sounds. Well, why not a customizable sound generator? I built this complex oscillator to have the most personal waveform as possible. I hope you like it.<br>
