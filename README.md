@@ -10,18 +10,16 @@ You can find my modules to purchase <a href="https://gumroad.com/bbmodules">here
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/complex.png)
 
 <b>SIN, TRI, SAW, SQR, SPL</b> knobs - to control the amount for each signal;<br>
-<b>|o|</b> - it's the sum of all the 5 signals;<br>
+<b>|s|</b> - it's the sum of all the 5 signals;<br>
 <b>|c|</b> - it's the sum of all the 5 signals not controlled by fine knob;<br>
 <b>|≈|</b> - it's the sum of 5 not conventional waves;<br>
-
-SPECIAL from <b>out</b> and SPECIAL from <b>spl</b> are different waves<br>
+<b>|o|</b> - it's the out for phase modding<br>
 
 <b>sSRCbP</b> stands for <b>source signal replacement controlled by phase</b> 
 
-<b>alpha</b> - to control the source to modulate<br>
-<b>beta</b> - to control the group of signals to replace<br>
-<b>mphs</b> - it's the out for phase modding<br>
-<b>omega</b> - to control the amount of <b>sSRCbP</b><br>
+<b>a</b> - to control the source to modulate<br>
+<b>b</b> - to control the group of signals to replace<br>
+<b>o</b> - to control the amount of <b>sSRCbP</b><br>
 
 ### The Aim
 I like find and create new sounds, my sounds. Well, why not a customizable sound generator? I built this complex oscillator to have the most personal waveform as possible. I hope you like it.<br>
