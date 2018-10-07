@@ -7,7 +7,7 @@ You can find my modules to purchase <a href="https://gumroad.com/bbmodules">here
 
 ## Complex Oscillator
 
-![alt text](https://github.com/soulbridge/BBModules/blob/master/complete.jpg)
+![alt text](https://github.com/soulbridge/BBModules/blob/master/complex.png)
 
 <b>SIN, TRI, SAW, SQR, SPECIAL</b> knobs - to control the amount for each signal;<br>
 <b>out</b> - it's the sum of all the 5 signals;<br>
