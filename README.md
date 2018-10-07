@@ -10,10 +10,10 @@ You can find my modules to purchase <a href="https://gumroad.com/bbmodules">here
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/complex.png)
 
 <b>SIN, TRI, SAW, SQR, SPL</b> knobs - to control the amount for each signal;<br>
+<b>|o|</b> - it's the out produced by <b>sSRCbP</b><br>
 <b>|s|</b> - it's the sum of all the 5 signals;<br>
 <b>|c|</b> - it's the sum of all the 5 signals not controlled by fine knob;<br>
 <b>|≈|</b> - it's the sum of 5 not conventional waves;<br>
-<b>|o|</b> - it's the out for phase modding<br>
 
 <b>sSRCbP</b> stands for <b>source signal replacement controlled by phase</b> 
 
