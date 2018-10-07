@@ -9,10 +9,10 @@ You can find my modules to purchase <a href="https://gumroad.com/bbmodules">here
 
 ![alt text](https://github.com/soulbridge/BBModules/blob/master/complex.png)
 
-<b>SIN, TRI, SAW, SQR, SPECIAL</b> knobs - to control the amount for each signal;<br>
-<b>out</b> - it's the sum of all the 5 signals;<br>
-<b>clone</b> - it's the sum of all the 5 signals not controlled by fine knob;<br>
-<b>spl</b> - it's the sum of 5 not conventional waves;<br>
+<b>SIN, TRI, SAW, SQR, SPL</b> knobs - to control the amount for each signal;<br>
+<b>|o|</b> - it's the sum of all the 5 signals;<br>
+<b>|c|</b> - it's the sum of all the 5 signals not controlled by fine knob;<br>
+<b>|≈|</b> - it's the sum of 5 not conventional waves;<br>
 
 SPECIAL from <b>out</b> and SPECIAL from <b>spl</b> are different waves<br>
 
