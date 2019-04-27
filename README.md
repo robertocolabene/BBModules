@@ -7,4 +7,4 @@ You can find my modules to purchase <a href="https://gumroad.com/bbmodules">here
 
 ## Complex Oscillator
 
-![alt text]img/complexoscillator.png)
+![alt text](img/complexoscillator.png)
