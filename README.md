@@ -2,6 +2,7 @@
 
 ### Notes
 You can find my modules to purchase <a href="https://gumroad.com/bbmodules">here</a>.<br>
+Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pRYQ?view_as=subscriber">channel</a> for more info.
 
 # My Modules
 
