@@ -54,7 +54,7 @@ A way to have less complex replacement of the signals is to set a replacement ba
 
 ## Einstein-Rosen Bridge (discontinued)
 
-![alt text](https://github.com/soulbridge/BBModules/blob/master/erb.jpg)
+![alt text](img/erb.jpg)
 
 The "Einstein-Rosen bridge" module is a probabilistic <b>delayer</b> and, I have to say it, this module is easy to learn but it could be pretty hard to master.<br>
 Basically this module have one input and one output, the signal on the input will be buffered and delayed on the output.<br>
