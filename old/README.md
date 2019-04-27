@@ -7,7 +7,7 @@ You can find my modules to purchase <a href="https://gumroad.com/bbmodules">here
 
 ## Complex Oscillator
 
-![alt text](/img/complex.png)
+![alt text](img/complex.png)
 
 <b>SIN, TRI, SAW, SQR, SPL</b> knobs - to control the amount for each signal;<br>
 <b>|o|</b> - it's the out produced by <b>sSRCbP</b><br>
