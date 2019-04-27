@@ -116,5 +116,3 @@ You should use the distance probability variations in combination with "one shot
 In most of the cases "one shot, signal off" will be the best option.<br>
 
 <br><br>
-## Donation
-- if you want, you can... <a href="https://paypal.me/bbmodules">here</a><br>
