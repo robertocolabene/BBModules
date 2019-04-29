@@ -16,7 +16,7 @@ the first wave it's a sine, let's take a look to the others...</b><br><br>
 ![alt text](img/6.png)<br>
 ![alt text](img/7.png)<br>
 ![alt text](img/8.png)<br><br>
-<b>those are all the waves you can "modulate", but replaced it's the right term.</b><br><br>
+<b>those are all the waves you can use to "modulate", but "to replace" it's the right term.</b><br><br>
 ![alt text](img/9.png)<br><br>
 <b>I'm using the sine because it's the most efficient waves to explain this thing,<br>
 just divide the signal in four stages, by the pole and by the trend...<br>
@@ -37,7 +37,7 @@ first position - stage I</b><br><br>
 ![alt text](img/16.png)<br><br>
 <b>it's just a blend</b><br><br>
 ![alt text](img/theta.gif)<br><br>
-<b>the ŧ| parameter allow you to change the staring phase of the special waves, it means that if you're using one of them as carrier moving the ŧ| will move also the stages.<br>
+<b>the ŧ| parameter allow you to change the starting phase of the special waves, it means that if you're using one of them as carrier moving the ŧ| will move also the stages.<br>
 Remember that if the carrier it's a sine there are just 4 stages but if it's a special waves those 4 stages can be repated more then a once in the same period.</b><br><br>
 ![alt text](../../img/comenu.png)<br><br>
 <b>At this point you should have clear ideas also on how modulation works.</b>
