@@ -78,7 +78,7 @@ B= x * y ^ z;<br>
 <b>Alternative outputs</b>:<br>
 A= x^z;<br>
 B= y^z;
-### 5. Logic Ports*
+### 5. Logic Gates*
 Z: [-1,1];<br>
 z: cv input;<br>
 When Z+z >= 1 the not port is active;<br>
