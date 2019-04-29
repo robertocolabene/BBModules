@@ -18,7 +18,8 @@ Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pR
 ![alt text](img/comenu.png)<br>
 
 ![alt text](img/fox.png)
-![alt text](img/foxmenu.png)<br>
+![alt text](img/foxmenu.png)
+<a href="/QSG/fox/readme.md">Quickstart Guide</a><br>
 
 ![alt text](img/ability.png)
 <a href="/QSG/ability/readme.md">Quickstart Guide</a><br>
