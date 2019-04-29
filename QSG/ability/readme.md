@@ -50,6 +50,45 @@ B= cv_linear * y;<br>
 A= cv_exponential * x;<br>
 B= cv_exponential * y;
 
+## LOGIC
+### 1. Min-Max
+A= min;<br> 
+B= max;
+### 2. Logic 1*
+Z: [-5,5];<br>
+z: cv input;<br>
+A= x+y+z;<br>
+B= x-y-z;<br>
+<b>Alternative outputs</b>:<br>
+A= x+z;<br>
+B= y-z;
+### 3. Logic 2*
+Z: [-5,5];<br>
+z: cv input;<br>
+A= x * y + z;<br>
+B= x / y + z;<br>
+<b>Alternative outputs</b>:<br>
+A= x * z;<br>
+B= y * z;
+### 4. Logic 3*
+Z: [-5,5];<br>
+z: cv input;<br>
+A= x * y * z;<br>
+B= x * y ^ z;<br>
+<b>Alternative outputs</b>:<br>
+A= x^z;<br>
+B= y^z;
+### 5. Logic Ports*
+Z: [-1,1];<br>
+z: cv input;<br>
+When Z+z >= 1 the not port is active;<br>
+x: true when >=1;<br>
+y: true when >=1;<br>
+A= AND;<br>
+B= OR;<br>
+<b>Alternative outputs</b>:<br>
+A= XOR;<br>
+B= XNOR;
 
 
 
