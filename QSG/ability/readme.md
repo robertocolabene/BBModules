@@ -21,7 +21,8 @@ If the functionality of an input or a parameter it's not specified then it's a t
 
 ## UTILITIES
 ### 1. Inverter
-A=-x; B=-y;
+A= -x;<br> 
+B= -y;
 ### 2. Half-Wave Rectifier
 A= positive values for x;<br>
 B= positive values for y;
@@ -39,15 +40,15 @@ Z: shape;<br>
 z: signal input;<br>
 x: rise;<br>
 y: fall;<br>
-A= round(x);<br>
-B= round(y);
+A= out;<br>
+B= -out;
 ### 6. Dual VCA*
 z: cv input;<br>
-A= linear x;<br>
-B= linear y;<br>
+A= cv_linear * x;<br>
+B= cv_linear * y;<br>
 <b>Alternative outputs</b>:<br>
-A= exponential x;<br>
-B= exponential y;
+A= cv_exponential * x;<br>
+B= cv_exponential * y;
 
 
 
