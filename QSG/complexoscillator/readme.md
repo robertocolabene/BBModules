@@ -30,7 +30,7 @@ first position - stage I</b><br><br>
 ![alt text](img/12.png)<br><br>
 <b>third position - stage II</b><br><br>
 ![alt text](img/13.png)<br><br>
-<b>fourth position - stage IV</b><br<br>
+<b>fourth position - stage IV</b><br><br>
 ![alt text](img/14.png)<br><br>
 <b>now we can really see how the ö| knob works</b><br><br>
 ![alt text](img/15.png)<br>
