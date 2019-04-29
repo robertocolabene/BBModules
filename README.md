@@ -13,7 +13,7 @@ Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pR
 ![alt text](img/foxmenu.png)<br>
 
 ![alt text](img/ability.png)
-<br>
+<a href="QSG/ability/readme.rm">Quickstart Guide</a><br>
 
 ![alt text](img/triverse.png)
 ![alt text](img/triversemenu.png)
