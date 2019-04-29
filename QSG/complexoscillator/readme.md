@@ -18,10 +18,10 @@ the first wave it's a sine, let's take a look to the others...</b><br><br>
 ![alt text](img/8.png)<br><br>
 <b>those are all the waves you can use to "modulate", but "to replace" it's the right term.</b><br><br>
 ![alt text](img/9.png)<br><br>
-<b>I'm using the sine because it's the most efficient waves to explain this thing,<br>
+<b>I'm using the sine because it's the most efficient wave to explain this thing,<br>
 just divide the signal in four stages, by the pole and by the trend...<br>
 in other terms have a visual of the signal when it's positive/negative and when it's rising/falling,<br>
-I called those stage, that you see on a sine, I,II,III,IV</b><br><br>
+I called those stages, that you see on a sine, I,II,III,IV</b><br><br>
 ![alt text](img/10.png)<br><br>
 <b>the switch near ḅ| it's used to chose the stage and the wave, choosen with knob ḅ|, will replace the carrier<br>
 first position - stage I</b><br><br>
@@ -38,6 +38,6 @@ first position - stage I</b><br><br>
 <b>it's just a blend</b><br><br>
 ![alt text](img/theta.gif)<br><br>
 <b>the ŧ| parameter allow you to change the starting phase of the special waves, it means that if you're using one of them as carrier moving the ŧ| will move also the stages.<br>
-Remember that if the carrier it's a sine there are just 4 stages but if it's a special waves those 4 stages can be repated more then a once in the same period.</b><br><br>
+Remember that if the carrier it's a sine there are just 4 stages but if it's a special wave those 4 stages can be repeated more than once in the same period.</b><br><br>
 ![alt text](../../img/comenu.png)<br><br>
 <b>At this point you should have clear ideas also on how modulation works.</b>
