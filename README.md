@@ -1,5 +1,13 @@
 # BBModules
 
+### Version
+Developing version: 0.6.3 <br>
+Gumroad version: 0.6.2b <br>
+
+<b>Updates 0.6.3</b><br>
+-New Graphic Design<br>
+-Fox, Ability, Triverse, Bimix
+
 ### Notes
 You can find my modules to purchase <a href="https://gumroad.com/bbmodules">here</a>.<br>
 Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pRYQ?view_as=subscriber">channel</a> for more info.
