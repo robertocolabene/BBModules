@@ -9,7 +9,7 @@ Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pR
 ![alt text](img/complexoscillator.png)
 ![alt text](img/comenu.png)<br>
 
-![alt text](img/mixture.png) Inspired to <a href="https://intellijel.com/shop/eurorack/quad-vca/">Quad VCA</a> from Intellijel<br>
+![alt text](img/mixture.png) Inspired to <a href="https://intellijel.com/shop/eurorack/quad-vca/" target="_blank">Quad VCA</a> from Intellijel<br>
 
 ![alt text](img/fox.png)
 ![alt text](img/foxmenu.png)<br>
