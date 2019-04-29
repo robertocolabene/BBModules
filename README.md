@@ -2,7 +2,7 @@
 
 ### Version
 Developing version: 0.6.3 <br>
-Gumroad version: 0.6.2b <br>
+Current version: 0.6.2b <br>
 
 <b>Updates 0.6.3</b><br>
 -New Graphic Design<br>
