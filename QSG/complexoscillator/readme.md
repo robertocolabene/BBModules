@@ -41,4 +41,4 @@ first position - stage I</b><br><br>
 Remember that if the carrier it's a sine there are just 4 stages but if it's a special wave those 4 stages can be repeated more than once in the same period.</b><br><br>
 ![alt text](../../img/comenu.png)<br><br>
 <b>At this point you should have clear ideas also on how modulation works.<br>
-Except for Amplitude Modulation, Spl amount, Fine and Theta inputs for modulation other settings are dedicated to the |o| output. The Wave X inputs allows you to insert your wave as replace but stay alert with sync.</b>
+Except for Amplitude Modulation, Spl amount, Fine and Theta inputs for modulation the other settings are dedicated to the |o| output. The Wave X inputs allows you to insert your wave as a replacement but stay alert with sync.</b>
