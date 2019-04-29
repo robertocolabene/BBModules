@@ -95,7 +95,7 @@ B= XNOR;
 z: trigger input;<br>
 x: noise threshold;<br>
 y: noise threshold;<br>
-When x and y are not connected noise generates between [-5,+5]
+When x and y are not connected noise generates between [-5,+5];<br>
 A= noise;<br>
 B= noise sample;
 ### 2. Dual S&H
@@ -105,4 +105,40 @@ y: signal input;<br>
 A= x sample;<br>
 B= y sample;
 
+
+## OTHER
+### 1. Clock*
+Z: bpm;<br>
+A= Master;<br>
+B= div 2;<br>
+<b>Alternative outputs</b>:<br>
+A= Master;<br>
+B= div 4;
+### 2. Dual Sequencer*
+z: clock input;<br>
+x: if active cv input to set SeqA;<br>
+y: if active cv input to set SeqB;<br>
+A= SeqA;<br>
+B= SeqB;<br>
+<b>Alternative outputs</b>:<br>
+A= Serial;<br>
+B= -Serial;
+### 3. Seq Switch
+z: trigger input;<br>
+A= x,y;<br> 
+B= y,x;
+### 4. Prob Switch
+Z: probability parameter;<br>
+z: trigger input;<br>
+A= x,y;<br> 
+B= y,x;
+### 5. Env Follower
+A= envelope x;<br> 
+B= envelope y;
+### 6. Lin/Exp & Exp/Lin*
+A= 2^x;<br>
+B= log2(y);<br>
+<b>Alternative outputs</b>:<br>
+A= e^x;<br>
+B= ln(y);
 
