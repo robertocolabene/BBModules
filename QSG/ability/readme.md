@@ -142,3 +142,43 @@ B= log2(y);<br>
 A= e^x;<br>
 B= ln(y);
 
+
+## WAVESHAPERS
+### 1. Dual Sym
+Z: [-1,1];<br>
+z: cv input;<br>
+A= processed x;<br> 
+B= processed y;
+### 2. Asymmetrical
+x: cv input;<br>
+y: cv input;<br>
+A= processed z;<br> 
+B= -processed z;
+### 3. Asymmetrical tp.2
+x: cv input;<br>
+y: cv input;<br>
+A= processed z;<br> 
+B= -processed z;
+
+## ENVELOPE GEN
+### 1. Attack Decay
+Z: shape;<br>
+x: attack;<br>
+y: decay;<br>
+z: trigger input;<br>
+A= AD;<br> 
+B= -AD y;
+### 2. Attack Decay EOC
+Z: shape;<br>
+x: attack;<br>
+y: decay;<br>
+z: trigger input;<br>
+A= AD;<br> 
+B= EOC;
+### 3. Attack Decay Cycle
+Z: shape;<br>
+x: attack;<br>
+y: decay;<br>
+z: trigger input;<br>
+A= ENV;<br> 
+B= -ENV;
