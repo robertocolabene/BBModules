@@ -90,5 +90,19 @@ B= OR;<br>
 A= XOR;<br>
 B= XNOR;
 
+## SAMPLER
+### 1. Sample & Hold
+z: trigger input;<br>
+x: noise threshold;<br>
+y: noise threshold;<br>
+When x and y are not connected noise generates between [-5,+5]
+A= noise;<br>
+B= noise sample;
+### 2. Dual S&H
+z: trigger input;<br>
+x: signal input;<br>
+y: signal input;<br>
+A= x sample;<br>
+B= y sample;
 
 
