@@ -16,11 +16,11 @@ Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pR
 
 ![alt text](img/complexoscillator.png)
 ![alt text](img/comenu.png)
-<a href="/QSG/complexoscillator/readme.md">Quickstart Guide</a><br>
+<a href="/QSG/complexoscillator/readme.md">Quickstart</a><br>
 
 ![alt text](img/fox.png)
 ![alt text](img/foxmenu.png)
-<a href="/QSG/fox/readme.md">Quickstart Guide</a><br>
+<a href="/QSG/fox/readme.md">Quickstart</a><br>
 
 ![alt text](img/ability.png)
 <a href="/QSG/ability/readme.md">Quickstart Guide</a><br>
