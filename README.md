@@ -9,7 +9,7 @@ Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pR
 ![alt text](img/complexoscillator.png)
 ![alt text](img/comenu.png)<br>
 
-![alt text](img/mixture.png)
+![alt text](img/mixture.png) Clone of
 <br>
 
 ![alt text](img/fox.png)
