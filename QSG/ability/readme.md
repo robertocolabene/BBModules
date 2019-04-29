@@ -1,6 +1,6 @@
 # Ability
 
-### Ability is a multi-algorithm module.
+Ability is a multi-algorithm module.
 
 ## Quickstart Guide
 
