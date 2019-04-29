@@ -167,7 +167,7 @@ x: attack;<br>
 y: decay;<br>
 z: trigger input;<br>
 A= AD;<br> 
-B= -AD y;
+B= -AD;
 ### 2. Attack Decay EOC
 Z: shape;<br>
 x: attack;<br>
@@ -182,3 +182,90 @@ y: decay;<br>
 z: trigger input;<br>
 A= ENV;<br> 
 B= -ENV;
+
+
+## SOUND GEN
+### 1. VCO*
+Z: Oscillator Frequency;<br>
+x: pitch CV;<br>
+y: if active AM modulation;<br>
+z: pulse width;<br>
+A= sine;<br>
+B= triangle;<br>
+<b>Alternative outputs</b>:<br>
+A= sawtooth;<br>
+B= square;
+### 2. Dual VCO*
+Z: Oscillator Frequency;<br>
+x: pitch CV;<br>
+y: pitch CV;<br>
+z: pulse width;<br>
+A= sine;<br>
+B= saw;<br>
+<b>Alternative outputs</b>:<br>
+A= triangle;<br>
+B= square;
+
+
+## LFOs
+### 1. Double LFO*
+x: freq CV;<br>
+y: freq CV;<br>
+z: pulse width;<br>
+A= sine;<br>
+B= sine;<br>
+<b>Alternative outputs</b>:<br>
+A= triangle;<br>
+B= saw;
+### 2. Multi Wave*
+Z: LFO Frequency;<br>
+z: pulse width;<br>
+A= sine;<br>
+B= triangle;<br>
+<b>Alternative outputs</b>:<br>
+A= sawtooth;<br>
+B= square;
+
+
+## FILTERS
+### 1. LP & HP Parallel
+Z: cutoff;<br>
+x: signal input;<br>
+y: cutoff_cv;<br>
+z: resonance_cv;<br>
+A= LP;<br> 
+B= HP;
+### 2. LP & HP Serial
+Z: blend;<br>
+x: cutoff_cv;<br>
+y: cutoff_cv;<br>
+z: signal input;<br>
+A= LP->HP;<br> 
+B= HP->LP;
+
+## EFFECTS
+### 1. Delay
+Z: Feedback;<br>
+x: L input;<br>
+y: R input;<br>
+z: time delay;<br>
+A= sine;<br>
+B= sine;<br>
+### 2. Ring Modulator*
+Z: Wet Level;<br>
+x: L input;<br>
+y: R input;<br>
+z: oscillator pitch;<br>
+A= L;<br>
+B= R;<br>
+<b>Alternative outputs</b>:<br>
+A= soft L;<br>
+B= soft R;
+### 2. Reverse*
+x: L input;<br>
+y: R input;<br>
+A= dry;<br>
+B= wet;<br>
+<b>Alternative outputs</b>:<br>
+A= L;<br>
+B= R;
