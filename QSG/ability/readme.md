@@ -2,4 +2,4 @@
 
 ## Quickstart Guide
 
-![alt text](img/ability.png)<br>
+![alt text](../../img/ability.png)<br>
