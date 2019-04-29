@@ -16,7 +16,7 @@ Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pR
 
 ![alt text](img/complexoscillator.png)
 ![alt text](img/comenu.png)
-<a href="/QSG/complexoscillator/readme.md">QSG</a><br>
+<a href="/QSG/complexoscillator/readme.md">Q</a><br>
 
 ![alt text](img/fox.png)
 ![alt text](img/foxmenu.png)
