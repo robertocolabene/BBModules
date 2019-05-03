@@ -1,8 +1,8 @@
 # BBModules
 
 ### Version
-Developing version: 0.6.3 <br>
-Current version: 0.6.2b <br>
+Developing version: 0.6.4 <br>
+Current version: 0.6.3 <br>
 
 <b>Updates 0.6.3</b><br>
 -New Graphic Design<br>
