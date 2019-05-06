@@ -4,7 +4,7 @@ Fox is a transparent overdrive and distortion module.
 
 ## Quickstart Guide
 
-![alt text](../../img/fox.png)
+![alt text](img/foxg.png)
 ![alt text](../../img/foxmenu.png)<br>
 
 
