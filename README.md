@@ -22,6 +22,9 @@ Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pR
 ![alt text](img/comenu.png)
 <a href="/QSG/complexoscillator/readme.md">Q</a><br>
 
+![alt text](img/nostromo.png)
+<a href="">Quickstart Guide</a><br>
+
 ![alt text](img/fox.png)
 ![alt text](img/foxmenu.png)
 <a href="/QSG/fox/readme.md">Quickstart Guide</a><br>
