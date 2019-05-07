@@ -7,6 +7,7 @@ Current version: 0.6.3 <br>
 <b>Updates 0.6.4</b><br>
 -Nostromo<br>
 -Fixed: Reverse Algorithm
+-Added: FX Volume - Reverse Algorithm
 
 <b>Updates 0.6.3</b><br>
 -New Graphic Design<br>
