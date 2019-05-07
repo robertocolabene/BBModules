@@ -262,6 +262,7 @@ B= R;<br>
 A= soft L;<br>
 B= soft R;
 ### 2. Reverse*
+Z: FX Level;<br>
 x: L input;<br>
 y: R input;<br>
 A= dry;<br>
