@@ -13,10 +13,10 @@ Current version: 0.6.3 <br>
 -Fox, Ability, Triverse, Bimix
 
 ### Notes
-Soon my modules will available on the VCV Store.<br>
-All my modules are sold in a single package and all the updates and the future modules all granted with it.<br>
+Soon my modules will be available on the VCV Store.<br>
+All my modules are sold in a single package and all the updates and the future modules all granted with it.<br><br>
 You can find at moment my modules to purchase <a href="https://gumroad.com/bbmodules">here</a>.<br>
-Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pRYQ?view_as=subscriber">channel</a> for more info.
+Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pRYQ?view_as=subscriber">channel</a> for more info and updates.
 
 # My Modules
 
