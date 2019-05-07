@@ -249,8 +249,8 @@ Z: Feedback;<br>
 x: L input;<br>
 y: R input;<br>
 z: time delay;<br>
-A= sine;<br>
-B= sine;<br>
+A= L;<br>
+B= R;<br>
 ### 2. Ring Modulator*
 Z: Wet Level;<br>
 x: L input;<br>
