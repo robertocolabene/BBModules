@@ -8,7 +8,7 @@ Current version: 0.6.3 <br>
 -Nostromo<br>
 -Fixed: Reverse Algorithm<br>
 -Added: FX Volume - Reverse Algorithm<br>
--New Graphic Design
+-New Graphic Design<br>
 -Linux Build
 
 <b>Updates 0.6.3</b><br>
