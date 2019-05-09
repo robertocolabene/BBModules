@@ -23,10 +23,6 @@ Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pR
 
 # My Modules
 
-![alt text](img/complexoscillator.png)
-![alt text](img/comenu.png)
-<a href="/QSG/complexoscillator/readme.md">Q</a><br>
-
 ![alt text](img/nostromo.png)
 <a href="">Quickstart Guide</a><br>
 
@@ -46,3 +42,7 @@ Inspired to <a href="https://intellijel.com/shop/eurorack/mixup/">Mixup</a> by I
 
 ![alt text](img/mixture.png) 
 Inspired to <a href="https://intellijel.com/shop/eurorack/quad-vca/">Quad VCA</a> by Intellijel<br>
+
+![alt text](img/complexoscillator.png)
+![alt text](img/comenu.png)
+<a href="/QSG/complexoscillator/readme.md">Q</a><br>
