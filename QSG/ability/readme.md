@@ -1,6 +1,6 @@
 # Mirror
 
-Ability is a multi-algorithm module.
+Mirror is a multi-algorithm module.
 
 ## Quickstart Guide
 
