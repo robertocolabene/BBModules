@@ -1,4 +1,4 @@
-# Ability
+# Mirror
 
 Ability is a multi-algorithm module.
 
