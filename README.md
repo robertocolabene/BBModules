@@ -9,7 +9,8 @@ Current version: 0.6.3 <br>
 -Fixed: Reverse Algorithm<br>
 -Added: FX Volume - Reverse Algorithm<br>
 -New Graphic Design<br>
--Linux Build
+-Linux Build<br>
+-Added: memory for Sequencer Algorithm<br>
 
 <b>Updates 0.6.3</b><br>
 -New Graphic Design<br>
