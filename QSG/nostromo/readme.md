@@ -9,13 +9,17 @@ Nostromo is a complex oscillator, a lighter version of the Complex Oscillator mo
 
 
 ### Controls
-1. <b>Bypass Switch</b>: to bypass the effect, true bypass don't worry...
-2. <b>Gain knob</b>: to pump up your input signal
-3. <b>Hard Clip switch</b>: to activate the hard clip 
-4. <b>3D knob</b>: to get magic! but do not overdo with.
-5. <b>Multifunctional knobs</b>: multifunctional parameter
-6. <b>Filter Switch</b>: to activate a lowpass or a highpass filter at the end of the circuit
-7. <b>Filter Control knobs</b>: cutoff and resonance
-8. <b>Blend knob</b>: Dry/Wet control
-9. <b>in, cv</b>: inputs
-0. <b>Dry, Wet</b>: outputs
+1. <b>Tuning knob</b>: oscillator frequency
+2. <b>PW knob</b>: pulse width simmetry
+3. <b>Theta knob</b>: to modulate the starting phase of the special waves 
+4. <b>Sub Wave selector</b>: triangle, saw, square
+5. <b>Sub Wabe amount</b>: from 0 to 100%
+6. <b>Alpha knob</b>: to select the carrier
+7. <b>Beta Stage knobs</b>: to select the signals for modulation
+8. <b>Omega knob</b>: Dry/Wet control
+a. <b>V/OCT</b>: input
+b. <b>PW modulation</b>: input
+c. <b>Frequency modulation</b>: input
+d. <b>Beta modulation</b>: input
+e. <b>Omega modulation</b>: input
+f. <b>Alpha modulation</b>: input
