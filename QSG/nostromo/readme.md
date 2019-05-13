@@ -20,6 +20,6 @@ Nostromo is a complex oscillator, a lighter version of the Complex Oscillator mo
 a. <b>V/OCT</b>: input
 b. <b>PW modulation</b>: input
 c. <b>Frequency modulation</b>: input
-d. <b>Beta modulation</b>: input
+d. <b>Theta modulation</b>: input
 e. <b>Omega modulation</b>: input
 f. <b>Alpha modulation</b>: input
