@@ -42,7 +42,7 @@ Inspired to <a href="https://intellijel.com/shop/eurorack/triatt/">Triatt</a> by
 Inspired to <a href="https://intellijel.com/shop/eurorack/quad-vca/">Quad VCA</a> by Intellijel<br>
 
 ![alt text](img/nostromo.png)
-<a href="">Quickstart Guide</a><br>
+<a href="/QSG/nostromo/readme.md">Quickstart Guide</a><br>
 
 ![alt text](img/complexoscillator.png)
 ![alt text](img/comenu.png)
