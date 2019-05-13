@@ -16,10 +16,10 @@ Nostromo is a complex oscillator, a lighter version of the Complex Oscillator mo
 5. <b>Sub Wabe amount</b>: from 0 to 100%
 6. <b>Alpha knob</b>: to select the carrier
 7. <b>Beta Stage knobs</b>: to select the signals for modulation
-8. <b>Omega knob</b>: Dry/Wet control
-a. <b>V/OCT</b>: input
-b. <b>PW modulation</b>: input
-c. <b>Frequency modulation</b>: input
-d. <b>Theta modulation</b>: input
-e. <b>Omega modulation</b>: input
-f. <b>Alpha modulation</b>: input
+8. <b>Omega knob</b>: Dry/Wet control<br>
+a. <b>V/OCT</b>: input<br>
+b. <b>PW modulation</b>: input<br>
+c. <b>Frequency modulation</b>: input<br>
+d. <b>Theta modulation</b>: input<br>
+e. <b>Omega modulation</b>: input<br>
+f. <b>Alpha modulation</b>: input<br>
