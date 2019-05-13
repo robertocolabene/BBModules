@@ -23,3 +23,5 @@ c. <b>Frequency modulation</b>: input<br>
 d. <b>Theta modulation</b>: input<br>
 e. <b>Omega modulation</b>: input<br>
 f. <b>Alpha modulation</b>: input<br>
+
+for more info look<a href="../QSG/complexoscillator/readme.md">here</a>
