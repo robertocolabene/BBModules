@@ -1,7 +1,7 @@
 # BBModules
 
 ### Version
-Developing version: ... <br>
+Developing version: 1.0.0 <br>
 Current version: 0.6.4 <br>
 
 <b>Updates 0.6.4</b><br>
@@ -45,5 +45,4 @@ Inspired to <a href="https://intellijel.com/shop/eurorack/quad-vca/">Quad VCA</a
 <a href="/QSG/nostromo/readme.md">Quickstart Guide</a><br>
 
 ![alt text](img/complexoscillator.png)
-![alt text](img/comenu.png)
-<a href="/QSG/complexoscillator/readme.md">Q</a><br>
+<a href="/QSG/complexoscillator/readme.md">Quickstart Guide</a><br>
