@@ -1,8 +1,8 @@
 # BBModules
 
 ### Version
-Developing version: 0.6.4 <br>
-Current version: 0.6.3 <br>
+Developing version: ... <br>
+Current version: 0.6.4 <br>
 
 <b>Updates 0.6.4</b><br>
 -Nostromo<br>
