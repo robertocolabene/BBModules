@@ -2,8 +2,8 @@
 
 ### Version
 ```
-Developing version: 1.0.0 
-Current version: 0.6.4 
+Developing version:  . .
+Current version: [1.0.0], [0.6.4] 
 ```
 
 ### Roadmap
