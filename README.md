@@ -14,11 +14,12 @@ Yggdrasill
 
 ### Update Log
 
-<b>Updates 1.0.0</b><br>
--Nostromo will replace the Complex Oscillator<br>
--Changed: Theta knob to Fine knob for Nostromo<br>
-
-<b>Updates 0.6.4</b><br>
+<b>1.0.0</b><br>
+```
+Nostromo will replace the Complex Oscillator
+Changed: Theta knob to Fine knob for Nostromo
+```
+<b>0.6.4</b><br>
 -Nostromo<br>
 -Fixed: Reverse Algorithm<br>
 -Added: FX Volume - Reverse Algorithm<br>
@@ -26,7 +27,7 @@ Yggdrasill
 -Linux Build<br>
 -Added: memory for Sequencer Algorithm<br>
 
-<b>Updates 0.6.3</b><br>
+<b>0.6.3</b><br>
 -New Graphic Design<br>
 -Fox, Ability, Triverse, Bimix
 
