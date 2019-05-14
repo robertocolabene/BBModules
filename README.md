@@ -5,8 +5,8 @@ Developing version: 1.0.0 <br>
 Current version: 0.6.4 <br>
 
 ### Roadmap
-Migrate to the VCV Store<br>
-Yggdrasill<br>
+-Migrate to the VCV Store<br>
+-Yggdrasill<br>
 
 <b>Updates 1.0.0</b><br>
 -Nostromo will replace the Complex Oscillator<br>
