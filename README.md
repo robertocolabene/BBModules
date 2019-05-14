@@ -9,6 +9,7 @@ Current version: [1.0.0], [0.6.4]
 ### Roadmap
 ```
 Migrate to the VCV Store
+Mirror: Autoswell, Looper
 Yggdrasill
 ```
 
