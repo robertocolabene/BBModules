@@ -62,5 +62,7 @@ Inspired to <a href="https://intellijel.com/shop/eurorack/quad-vca/">Quad VCA</a
 ![alt text](img/nostromo.png)
 <a href="/QSG/nostromo/readme.md">Quickstart Guide</a><br>
 
+## Discontinued
+
 ![alt text](img/complexoscillator.png)
 <a href="/QSG/complexoscillator/readme.md">Quickstart Guide</a><br>
