@@ -20,17 +20,19 @@ Nostromo will replace the Complex Oscillator
 Changed: Theta knob to Fine knob for Nostromo
 ```
 <b>0.6.4</b><br>
--Nostromo<br>
--Fixed: Reverse Algorithm<br>
--Added: FX Volume - Reverse Algorithm<br>
--New Graphic Design<br>
--Linux Build<br>
--Added: memory for Sequencer Algorithm<br>
-
+```
+Nostromo
+Fixed: Reverse Algorithm
+Added: FX Volume - Reverse Algorithm
+New Graphic Design
+Linux Build
+Added: memory for Sequencer Algorithm
+```
 <b>0.6.3</b><br>
--New Graphic Design<br>
--Fox, Ability, Triverse, Bimix
-
+```
+New Graphic Design
+Fox, Ability, Triverse, Bimix
+```
 ### Notes
 Soon my modules will be available on the VCV Store.<br>
 All my modules are sold in a single package and all the updates and the future modules all granted with it.<br><br>
