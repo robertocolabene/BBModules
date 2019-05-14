@@ -6,7 +6,7 @@ Current version: 0.6.4 <br>
 
 <b>Updates 1.0.0</b><br>
 -Nostromo will replace the Complex Oscillator<br>
--Changed: Theta knob in Fine knob for Nostromo<br>
+-Changed: Theta knob to Fine knob for Nostromo<br>
 
 <b>Updates 0.6.4</b><br>
 -Nostromo<br>
