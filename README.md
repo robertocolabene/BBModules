@@ -1,12 +1,18 @@
 # BBModules
 
 ### Version
-Developing version: 1.0.0 <br>
-Current version: 0.6.4 <br>
+```
+Developing version: 1.0.0 
+Current version: 0.6.4 
+```
 
 ### Roadmap
+
 -Migrate to the VCV Store<br>
 -Yggdrasill<br>
+
+
+### Update Log
 
 <b>Updates 1.0.0</b><br>
 -Nostromo will replace the Complex Oscillator<br>
