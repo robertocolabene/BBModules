@@ -16,7 +16,7 @@ Yggdrasill
 
 <b>1.0.0</b><br>
 ```
-Nostromo will replace the Complex Oscillator
+Nostromo has replaced the Complex Oscillator
 Changed: Theta knob to Fine knob for Nostromo
 ```
 <b>0.6.4</b><br>
