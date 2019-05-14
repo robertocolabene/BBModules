@@ -211,7 +211,6 @@ B= square;
 ### 1. Double LFO*
 x: freq CV;<br>
 y: freq CV;<br>
-z: pulse width;<br>
 A= sine;<br>
 B= sine;<br>
 <b>Alternative outputs</b>:<br>
