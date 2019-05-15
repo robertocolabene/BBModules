@@ -276,3 +276,9 @@ z: exp-lin-log;<br>
 y: lin to exp;<br>
 A= swell;<br>
 B= swell + delay;<br>
+### 4. Looper
+z: input;<br>
+x: rec trigger;<br>
+y: overdub trigger;<br>
+A= loop;<br>
+B= status;<br>
