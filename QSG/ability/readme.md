@@ -269,3 +269,10 @@ B= wet;<br>
 <b>Alternative outputs</b>:<br>
 A= L;<br>
 B= R;
+### 3. Autoswell
+Z: Rise;<br>
+x: input;<br>
+z: exp-lin-log;<br>
+y: lin to exp;<br>
+A= swell;<br>
+B= swell + delay;<br>
