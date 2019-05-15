@@ -9,7 +9,6 @@ Current version: [1.0.0], [0.6.4]
 ### Roadmap
 ```
 Migrate to the VCV Store
-Mirror: Autoswell, Looper
 Yggdrasill
 ```
 
@@ -17,6 +16,7 @@ Yggdrasill
 
 <b>1.0.0</b><br>
 ```
+Mirror: Autoswell, Looper
 Nostromo has replaced the Complex Oscillator
 Changed: Theta knob to Fine knob for Nostromo
 ```
