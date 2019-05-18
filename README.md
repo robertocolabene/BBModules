@@ -38,8 +38,9 @@ Fox, Ability, Triverse, Bimix
 ```
 All my modules are sold in a single package and all the updates and the future modules all granted with it.
 ```
-<a href="https://gumroad.com/bbmodules">Gumroad</a><br>
-Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pRYQ?view_as=subscriber">channel</a> for more info and updates.
+### Links
+-<a href="https://gumroad.com/bbmodules">Gumroad</a><br>
+-Check my youtube <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pRYQ?view_as=subscriber">channel</a> for more info and updates.
 
 # My Modules
 
