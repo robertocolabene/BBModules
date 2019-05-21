@@ -282,3 +282,9 @@ x: rec trigger;<br>
 y: overdub trigger;<br>
 A= loop;<br>
 B= status;<br>
+### 5. Tremolo
+Z: lfo frequency;<br>
+x: input;<br>
+y: dry/wet if connected;<br>
+A= standard;<br>
+B= harmonic;<br>
