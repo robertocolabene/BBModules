@@ -15,7 +15,8 @@ Yggdrasill
 
 <b>1.0.0</b><br>
 ```
-Added: Autoswell, Looper to Mirror
+UT
+Added: Autoswell, Looper, Tremolo to Mirror
 Nostromo has replaced the Complex Oscillator
 Changed: Theta knob to Fine knob for Nostromo
 ```
