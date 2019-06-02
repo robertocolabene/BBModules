@@ -54,6 +54,10 @@ All my modules are sold in a single package and all the updates and the future m
 ![alt text](img/bimix.png)
 Inspired to <a href="https://intellijel.com/shop/eurorack/mixup/">Mixup</a> by Intellijel<br>
 
+![alt text](img/yggdrasill.png)<br>
+
+![alt text](img/ut.png)<br>
+
 ![alt text](img/triverse.png)
 ![alt text](img/triversemenu.png)
 Inspired to <a href="https://intellijel.com/shop/eurorack/triatt/">Triatt</a> by Intellijel<br>
