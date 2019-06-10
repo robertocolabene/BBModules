@@ -40,8 +40,8 @@ Fox, Ability, Triverse, Bimix
 All my modules are sold in a single package and all the updates and the future modules all granted with it.
 ```
 ### Links
--<a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pRYQ?view_as=subscriber">Youtube</a>
--<a href="https://vcvrack.com/plugins.html">VCV Store</a>
+- <a href="https://www.youtube.com/channel/UCr-XgZjigmCxKmNMk75pRYQ?view_as=subscriber">Youtube</a>
+- <a href="https://vcvrack.com/plugins.html">VCV Store</a>
 
 # My Modules
 
