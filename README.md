@@ -16,6 +16,7 @@ Current version: [1.0.0]
 <b>1.1.0</b><br>
 ```
 oknotok
+Yggdrasill [alpha]
 ```
 <b>1.0.0</b><br>
 ```
