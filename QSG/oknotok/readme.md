@@ -40,3 +40,8 @@ Every step has also a probability knob to have a chance for switching between th
 Overload changes the behaviour of the sequencer.<br>
 The voltage output, trigger output, overclock rate, voltage range, step modality will be influenced by overload.<br>
 
+### Intelligibility
+Green: voltage knobs,<br>
+Purple: overclocking knobs,<br>
+Red: probability knobs,<br>
+![alt text](img/oknotokg2.png)<br>
