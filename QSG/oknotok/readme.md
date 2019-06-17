@@ -34,9 +34,9 @@ OKNOTOK is a matrix step sequencer influenced by probability.
 
 OKNOTOK has an internal clock, the clock input it's useful to put in sync the internal clock with an external clock bpm but impulses could not be perfectly synced.<br>
 The internal clock can be overclocked,accelerated or slowed down, by overcloking knobs step by step.<br>
-Turning the overclock knob to 1 means having a 100% to have a step overclocked.<br>
+Turning the overclock knob to 1 means having a 100% chance of overclocked step.<br>
 Overcloking knobs also add overload to the sequencer.<br>
-Every step has also a probability knob to switch the out between the voltage selected by the knob and voltage saved from the input or, if a cable is connected, the input signal.<br>
+Every step has also a probability knob to have a chance for switching between the voltage selected by the knob and voltage saved from the input or, if a cable is connected, the input signal.<br>
 Overload changes the behaviour of the sequencer.<br>
 The voltage output, trigger output, overclock rate, voltage range, step modality will be influenced by overload.<br>
 
