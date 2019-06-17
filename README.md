@@ -49,6 +49,9 @@ All my modules are sold in a single package and all the updates and the future m
 
 # My Modules
 
+![alt text](img/oknotok.png)
+<a href="/QSG/oknotok/readme.md">Quickstart Guide</a><br>
+
 ![alt text](img/fox.png)
 ![alt text](img/foxmenu.png)
 <a href="/QSG/fox/readme.md">Quickstart Guide</a><br>
