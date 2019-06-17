@@ -8,14 +8,26 @@ OKNOTOK is a matrix step sequencer influenced by probability.
 
 
 ### Controls
-1. <b>Bypass Switch</b>: to bypass the effect, true bypass don't worry...
-2. <b>Gain knob</b>: to pump up your input signal
-3. <b>Hard Clip switch</b>: to activate the hard clip 
-4. <b>3D knob</b>: to get magic! but do not overdo with.
-5. <b>Multifunctional knobs</b>: multifunctional parameter
-6. <b>Filter Switch</b>: to activate a lowpass or a highpass filter at the end of the circuit
-7. <b>Filter Control knobs</b>: cutoff and resonance
-8. <b>Blend knob</b>: Dry/Wet control
-9. <b>in, cv</b>: inputs
-0. <b>Dry, Wet</b>: outputs
+1. <b>Command strip</b>:
+  - <b>a</b>: Overclock Rate
+  - <b>b</b>: Start/Stop
+  - <b>c</b>: Forward/Reverse/Random 
+  - <b>d</b>: Voltage Range
+2. <b>Step Settings</b>: 
+  - <b>a</b>: Voltage [-1,1]xVoltage Range
+  - <b>b</b>: Probability Knob Voltage-Input(Saved) Voltage
+  - <b>c</b>: Overclocking Probability
+  - <b>d</b>: Trigger On/Off
+3. <b>Input Section</b>:  
+  - <b>a</b>: Clock Input 
+  - <b>b</b>: Voltage Input (saved on current step)
+4. <b>Trigger In Section</b>: 
+  - <b>a</b>: Start/Stop 
+  - <b>b</b>: Reset
+5. <b>Output Section</b>: 
+  - <b>a</b>: Voltage
+  - <b>b</b>: Trigger
+6. <b>State Status</b>: [ok, notok, error]
+7. <b>Overload Status</b>: more the overload more the issues
+
 
