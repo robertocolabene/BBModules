@@ -2,18 +2,21 @@
 
 ### Version
 ```
-Developing version: [1.x.y]
+Developing version: [1.1.0]
 Current version: [1.0.0] 
 ```
 
 ### Roadmap
 ```
-Yggdrasill
-oknotok
+...
 ```
 [](#update-log)
 ### Update Log
 
+<b>1.1.0</b><br>
+```
+oknotok
+```
 <b>1.0.0</b><br>
 ```
 UT
