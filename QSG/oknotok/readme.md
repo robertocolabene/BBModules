@@ -1,11 +1,10 @@
 # OKNOTOK
 
-Fox is a transparent overdrive and distortion module.
+OKNOTOK is a matrix step sequencer influenced by probability.
 
 ## Quickstart Guide
 
-![alt text](img/foxg.png)
-![alt text](../../img/foxmenu.png)<br>
+![alt text](img/oknotokg.png)<br>
 
 
 ### Controls
@@ -19,16 +18,4 @@ Fox is a transparent overdrive and distortion module.
 8. <b>Blend knob</b>: Dry/Wet control
 9. <b>in, cv</b>: inputs
 0. <b>Dry, Wet</b>: outputs
-
-<b>Overdrive</b><br>
--Knob one: low boost<br>
--Knob two: high boost<br>
-
-<b>Asymmetrical Distortion</b><br>
--Knob one: upper distortion<br>
--Knob two: bottom distortion<br>
-
-<b>Symmetrical Distortion</b><br>
--Knob one: distortion<br>
--Knob two: high boost<br>
 
