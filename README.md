@@ -2,17 +2,21 @@
 
 ### Version
 ```
-Developing version: [1.1.x]
+Developing version: [1.1.1]
 Current version: [1.1.0] 
 ```
 
 ### Roadmap
 ```
-UT lock system.
+...
 ```
 [](#update-log)
 ### Update Log
 
+<b>1.1.1</b><br>
+```
+UT lock value on click
+```
 <b>1.1.0</b><br>
 ```
 oknotok
