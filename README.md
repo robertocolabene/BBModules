@@ -16,6 +16,7 @@ Current version: [1.1.0]
 <b>1.1.1</b><br>
 ```
 UT lock value on click
+retiring Yggdrasill
 ```
 <b>1.1.0</b><br>
 ```
