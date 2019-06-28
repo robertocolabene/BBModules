@@ -8,7 +8,8 @@ Current version: [1.1.0]
 
 ### Roadmap
 ```
-...
+redesign yggdrasill
+crypt
 ```
 [](#update-log)
 ### Update Log
