@@ -8,7 +8,6 @@ Current version: [1.1.0]
 
 ### Roadmap
 ```
-nodes
 redesign yggdrasill
 crypt
 ```
@@ -17,6 +16,7 @@ crypt
 
 <b>1.1.1</b><br>
 ```
+Nodes
 add: Led to UT
 UT lock value on click
 retiring Yggdrasill
