@@ -8,6 +8,7 @@ Current version: [1.1.0]
 
 ### Roadmap
 ```
+nodes
 redesign yggdrasill
 crypt
 ```
