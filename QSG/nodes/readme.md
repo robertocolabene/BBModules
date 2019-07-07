@@ -4,7 +4,7 @@ Nodes is a patch bay.
 
 ## Quickstart Guide
 
-![alt text](../../img/nodes.png)<br>
+![alt text](img/nodesg.png)<br>
 
 
 ### Controls
