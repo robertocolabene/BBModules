@@ -2,14 +2,13 @@
 
 ### Version
 ```
-Developing version: [1.1.x]
+Developing version: [1.x.0]
 Current version: [1.1.1] 
 ```
 
 ### Roadmap
 ```
-redesign yggdrasill
-crypt
+Solar
 ```
 [](#update-log)
 ### Update Log
