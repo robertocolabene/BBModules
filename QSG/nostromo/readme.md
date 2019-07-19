@@ -11,7 +11,7 @@ Nostromo is a complex oscillator, a lighter version of the Complex Oscillator mo
 ### Controls
 1. <b>Tuning knob</b>: oscillator frequency
 2. <b>PW knob</b>: pulse width simmetry
-3. <b>Fine knob</b>: for fine tuning [changed to fine from Theta on v1.0.0]
+3. <b>Fine knob</b>: for fine tuning
 4. <b>Sub Wave selector</b>: triangle, saw, square
 5. <b>Sub Wabe amount</b>: from 0 to 100%
 6. <b>Alpha knob</b>: to select the carrier
