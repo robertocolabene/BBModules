@@ -1,8 +1,10 @@
 # BBModules
 
+### updating to 2.0 in a week or two
+
 ### Version
 ```
-Developing version: [1.x.0]
+Developing version: [2.0.0]
 Current version: [1.1.1] 
 ```
 
