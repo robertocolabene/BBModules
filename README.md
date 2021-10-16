@@ -1,11 +1,11 @@
 # BBModules
 
-### updating to 2.0 in a week or two
+### updated to 2.0
 
 ### Version
 ```
-Developing version: [2.0.0]
-Current version: [1.1.1] 
+Developing version: [x.x.x]
+Current version: [2.0.0] 
 ```
 
 ### Roadmap
